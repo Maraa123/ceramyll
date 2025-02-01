@@ -1,0 +1,16 @@
+.perfil{
+  height: 150px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 1px;
+  justify-content: space-between;
+}
+
+.cangrejo{
+  width: 150px;
+  height: 150px;
+  margin-top: 26px;
+  border-radius: 302px;
+
+}
